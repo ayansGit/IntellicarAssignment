@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#818181</color>
+    <color name="grey2">#404040</color>
+    <color name="background">#FF000000</color>
+    <color name="textColor">#FFFFFFFF</color>
+    <color name="button">#FFFFFF</color>
+    <color name="search_box_bg">#404040</color>
+    <color name="rounded_corner_bg">#404040</color>
+    <color name="stroke">#404040</color>
+    <color name="inverse">#FFFFFF</color>
+    <color name="movie_desc_bg_end_color">#F5272727</color>
+    <color name="movie_desc_bg_mid_color">#FD000000</color>
+    <color name="movie_desc_bg_start_color">#ff000000</color>
+    <color name="faded_bg_color">#EE000000</color>
+</resources>

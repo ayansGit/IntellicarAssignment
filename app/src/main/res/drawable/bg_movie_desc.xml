@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <gradient
+        android:angle="90"
+        android:endColor="@color/movie_desc_bg_end_color"
+        android:centerColor="@color/movie_desc_bg_mid_color"
+        android:startColor="@color/movie_desc_bg_start_color"/>
+
+    <corners android:topLeftRadius="@dimen/_15sdp" android:topRightRadius="@dimen/_15sdp"/>
+</shape>
